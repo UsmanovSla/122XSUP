@@ -1,0 +1,4 @@
+{'Name': 'Petr Novak', 'Age': 25, 'Adress': 'Praha', 'Profit': 245.45}
+{'Name': 'Jan Svoboda', 'Age': 32, 'Adress': 'Brno', 'Profit': 1054.64}
+{'Name': 'Pavel Pospichal', 'Age': 38, 'Adress': 'Ostrava', 'Profit': -501.0}
+{'Name': 'Dominik Sulc', 'Age': 18, 'Adress': 'Praha', 'Profit': 107.65}

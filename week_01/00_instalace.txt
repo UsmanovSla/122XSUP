@@ -1,0 +1,19 @@
+Instalace:
+
+1). Python 3.11.5
+	https://www.python.org/download
+	
+	Recommend (Win, 64): https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe
+	
+	
+	!Setting: + Add python.exe to PATH
+	
+	Check: + Desktop: IDLE (Python 3.11.5 64-bit) / try it
+
+	
+2). Visual Studio Code
+	https://code.visualstudio.com/download
+
+	+ Extensions: Python, Code Runner, Flake8 (Pylance, Pylint), Jupyter
+
+	+ Themes: Atom One Dark Theme (Darcula PyCharm Theme)
