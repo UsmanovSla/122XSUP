@@ -1,0 +1,2 @@
+http://www.celysvet.cz/cvut/122XSUP/amazon_baby.csv
+http://www.celysvet.cz/cvut/122XSUP/people_wiki.csv
