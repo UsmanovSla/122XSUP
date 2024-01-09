@@ -3,11 +3,6 @@ Strojové učení a umělá inteligence v prostředí Python
 
 Kurz Strojové učení a umělá inteligence v prostředí Python je zaměřen na studenty se zájmem získat zkušenosti v programovacím jazyku Python v oblasti vědy a v moderních metodách digitalizace stavebnictví. Studenti během kurzu budou seznámeni se základy Python a nejvíce rozšířenými knihovnami pro Data Science, analýzu dat, strojové učení, umělou inteligenci, Deep Learning a vizualizaci. Výuka bude probíhat ve formě cvičení a praktických menších ukázek v prostředí Python 3.0. Kurz je vhodný jak pro úplné začátečníky, tak i pro pokročilé uživatele Python. 
 
-Požadavky:
-
-    Zápočet je udělen za účast na cvičení, splnění úloh během semestru a ověření předpokladů. O formě zápočtu (ústní, písemná) rozhoduje garant předmětu.
-
-Osnova přednášek:
 Osnova cvičení:
 
     1. Základy Python. Datové typy, proměnné, operátory a operandy. Chyby a ladění.
